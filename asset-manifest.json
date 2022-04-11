@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pharma_Google_Map_Api/static/css/main.073c9b0a.css",
+    "main.js": "/Pharma_Google_Map_Api/static/js/main.031a6764.js",
+    "static/js/787.ec1ea62e.chunk.js": "/Pharma_Google_Map_Api/static/js/787.ec1ea62e.chunk.js",
+    "index.html": "/Pharma_Google_Map_Api/index.html",
+    "main.073c9b0a.css.map": "/Pharma_Google_Map_Api/static/css/main.073c9b0a.css.map",
+    "main.031a6764.js.map": "/Pharma_Google_Map_Api/static/js/main.031a6764.js.map",
+    "787.ec1ea62e.chunk.js.map": "/Pharma_Google_Map_Api/static/js/787.ec1ea62e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.031a6764.js"
+  ]
+}
