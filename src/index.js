@@ -4,6 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+window.onload=function(){
+  if(document.getElementsByClassName('dismissButton')[0]!==null||document.getElementsByClassName('dismissButton')[0]!==""){ 
+  document.getElementsByClassName('dismissButton')[0].click()
+  }
+  }
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
